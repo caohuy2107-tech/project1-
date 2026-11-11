@@ -2,10 +2,10 @@ Evaluating and comparing the effectiveness of XGBoost, Decision Tree, and Random
 
 1. Dataset: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-2. Kiến trúc tổng quát:
-   Hệ thống được xây dựng theo kiến trúc huấn luyện và đánh giá mô hình học máy cho bài toán dự đoán.
+2. Architecture:
+   
 
-#### Pipeline xử lý và xây dựng mô hình:
+#### Pipeline for processing and model building:
 
 ```text
 Input Data
